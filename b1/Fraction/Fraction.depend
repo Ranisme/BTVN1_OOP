@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728926977 source:c:\users\admin\desktop\it002\lab1btvn\b1\fraction\phanso.cpp
+	"PhanSo.h"
+	<bits/stdc++.h>
+
+1727770128 c:\users\admin\desktop\it002\lab1btvn\b1\fraction\phanso.h
+
+1727770133 source:c:\users\admin\desktop\it002\lab1btvn\b1\fraction\main.cpp
+	"PhanSo.h"
+	<bits/stdc++.h>
+
